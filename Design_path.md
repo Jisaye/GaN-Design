@@ -57,3 +57,16 @@ OUTG连接GaN MOS栅极，OUTS连接GaN MOS源极，PWM引脚选通OUTG/OUTS。
 ## RC吸收电路设计
 
 主要避免电压过冲击穿Mos管。降压式缓冲电路
+
+下面是几种设计样例：
+
+![image-20251024220959552](attachments/image-20251024220959552.png)
+
+![image-20251024221012875](attachments/image-20251024221012875.png)
+
+![image-20251024221059903](attachments/image-20251024221059903.png)
+
+![image-20251024221135009](attachments/image-20251024221135009.png)
+
+
+
