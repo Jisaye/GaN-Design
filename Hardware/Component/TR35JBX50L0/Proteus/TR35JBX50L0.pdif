@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TR35JBX50L0"
+   (description "RES, TO-220, 0.05 ohm, 5%, 35W")
+   (family "RES")
+   (package "TR35JBX50L0")
+   (attribute "Datasheet Link" "https://www.seielect.com/Catalog/SEI-TR.pdf")
+   (attribute "Geometry.Height" "15.3mm")
+   (attribute "Manufacturer_Name" "Stackpole Electronics, Inc.")
+   (attribute "Manufacturer_Part_Number" "TR35JBX50L0")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TR35JBX50L0")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "TR35JBX50L0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TR35JBX50L0"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.54 -2.55)
+      (pt 7.62 -2.55)
+      (pt 7.62 2.05)
+      (pt -2.54 2.05)
+      (pt -2.54 -2.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.54 -2.55)
+      (pt 7.62 -2.55)
+      (pt 7.62 2.05)
+      (pt -2.54 2.05)
+      (pt -2.54 -2.55))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.54 -3.55)
+      (pt 8.62 -3.55)
+      (pt 8.62 3.05)
+      (pt -3.54 3.05)
+      (pt -3.54 -3.55))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.2 0)
+      (arc (pt -3.200 0.000) (pt -3.200 -0.050) (pt -3.100 0.050) (start 180.0) (sweep -180.0))
+      (pt -3.1 0)
+      (arc (pt -3.100 0.000) (pt -3.200 -0.050) (pt -3.100 0.050) (start 180.0) (sweep .0))
+      (pt -3.2 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 5.080 0.000) (padstack 2))
+   (padstack 0
+    (hole 1.13)
+    (plated true)
+    (pad (layer TCOP) (square 1.695))
+    (pad (layer INNER) (round 1.695))
+    (pad (layer BCOP) (square 1.695))
+   )
+   (padstack 2
+    (hole 1.13)
+    (plated true)
+    (pad (layer TCOP) (round 1.695))
+    (pad (layer INNER) (round 1.695))
+    (pad (layer BCOP) (round 1.695))
+   )
+   (model "TR35JBX50L0.stp"
+    (euler 90 0 0)
+    (offset -2.700000047683716 0.8899999856948853 3.2899999618530273)
+   )
+  )
+ )
+)

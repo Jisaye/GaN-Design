@@ -1,0 +1,18 @@
+.TR35JBX50L0 :1 ;RES, TO-220, 0.05 ohm, 5%, 35W
+TR35JBX50L0
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN TR35JBX50L0
+~!Manufacturer_Name (Stackpole Electronics, Inc.)
+~!Manufacturer_Part_Number (TR35JBX50L0)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.seielect.com/Catalog/SEI-TR.pdf)
+~!Height (15.3mm)
+~!3D_Model (TR35JBX50L0)
+TR35JBX50L0
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Stackpole Electronics, Inc.
+PartNumber=TR35JBX50L0
+PartCategory=Resistor
+PackageCategory=Other
+PinCount=2
+Version=9.3
+Released=2023-03-31 09:48:41
+Downloaded=2025-10-25 07:56:00
+3D=Y

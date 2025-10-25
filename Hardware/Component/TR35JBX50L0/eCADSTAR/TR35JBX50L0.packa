@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TR35JBX50L0"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-03-31-09:48:41)
+    (mountForm default
+        (footprintRef "TR35JBX50L0")
+        (spec "System")
+    )
+)

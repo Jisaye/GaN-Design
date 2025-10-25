@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TR35JBX50L0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Stackpole Electronics, Inc.", "TR35JBX50L0" (!) = "", "TR35JBX50L0", "Other", "", "", "", "", "RES, TO-220, 0.05 ohm, 5%, 35W", "https://www.seielect.com/Catalog/SEI-TR.pdf", "15.3 mm"
+END_PART
+
+END.

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=12V NewDesignator=T3
+Change Component Designator: OldDesignator=GND NewDesignator=T4
+Change Component Designator: OldDesignator=PWM_H NewDesignator=T1
+Change Component Designator: OldDesignator=PWM_L NewDesignator=T2
+Change Component Library : Designator=U3 Old Library=SCH_Power.SchLib New Library=GaN_Single_Bridge.SCHLIB
+Added Pin To Net: NetName=5V Pin=U3-4

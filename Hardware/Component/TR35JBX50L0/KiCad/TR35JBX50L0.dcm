@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TR35JBX50L0
+D RES, TO-220, 0.05 ohm, 5%, 35W
+K
+F https://www.seielect.com/Catalog/SEI-TR.pdf
+$ENDCMP
+#
+#End Doc Library

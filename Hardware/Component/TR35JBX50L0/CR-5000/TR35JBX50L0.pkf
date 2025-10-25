@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TR35JBX50L0"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TR35JBX50L0")
+        (spec "default")
+    )
+)

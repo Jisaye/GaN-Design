@@ -1,0 +1,240 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=5V Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=12V Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-1
+Removed Pin From Net: NetName=5V Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=8V_H Pin=C17-1
+Removed Pin From Net: NetName=GND_H Pin=C17-2
+Removed Pin From Net: NetName=8V_H Pin=C18-1
+Removed Pin From Net: NetName=GND_H Pin=C18-2
+Removed Pin From Net: NetName=12V Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=8V_L Pin=C21-1
+Removed Pin From Net: NetName=GND_L Pin=C21-2
+Removed Pin From Net: NetName=8V_L Pin=C22-1
+Removed Pin From Net: NetName=GND_L Pin=C22-2
+Removed Pin From Net: NetName=12V Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C2 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C6 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C7 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C8 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C10 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C11 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C12 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C13 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C14 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C15 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C17 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C18 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C19 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C20 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C21 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C22 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Footprint: Designator=C23 Old Footprint=C0805 New Footprint=CAP_0805
+Change Component Comment : Designator=C1 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C2 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C3 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C4 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C5 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C6 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C7 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C8 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C9 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C10 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C11 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C12 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C13 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C14 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C15 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C16 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C17 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C18 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C19 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C20 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C21 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C22 Old Comment=Cap Pol3 New Comment=C0805
+Change Component Comment : Designator=C23 Old Comment=Cap Pol3 New Comment=C0805
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0805"; UniqueID = "\SHYCKRUP" ("\SHYCKRUP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0805"; UniqueID = "\GQOFBFFC" ("\GQOFBFFC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0805"; UniqueID = "\WIVSMPPB" ("\WIVSMPPB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C0805"; UniqueID = "\ZXWCIYGZ" ("\ZXWCIYGZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "C0805"; UniqueID = "\UIKJGTAZ" ("\UIKJGTAZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0805"; UniqueID = "\DPTUXYJO" ("\DPTUXYJO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "C0805"; UniqueID = "\VYYXFYTV" ("\VYYXFYTV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0805"; UniqueID = "\QAPTTHZW" ("\QAPTTHZW")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "C0805"; UniqueID = "\BWORJCXG" ("\BWORJCXG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0805"; UniqueID = "\QTNKDWLP" ("\QTNKDWLP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C0805"; UniqueID = "\KDUBGGUI" ("\KDUBGGUI")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "C0805"; UniqueID = "\NRXFSERQ" ("\NRXFSERQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0805"; UniqueID = "\ZKECTMVK" ("\ZKECTMVK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "C0805"; UniqueID = "\LUSFWTOZ" ("\LUSFWTOZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "C0805"; UniqueID = "\HEQUMWNE" ("\HEQUMWNE")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "C0805"; UniqueID = "\PXXWAYVC" ("\PXXWAYVC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "C0805"; UniqueID = "\ANYPOXFQ" ("\ANYPOXFQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "C0805"; UniqueID = "\DAXEMXHN" ("\DAXEMXHN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "C0805"; UniqueID = "\QOBFJXJD" ("\QOBFJXJD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "C0805"; UniqueID = "\DWZQOIAK" ("\DWZQOIAK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "C0805"; UniqueID = "\GEJHZYYO" ("\GEJHZYYO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "C0805"; UniqueID = "\YDUQXKHV" ("\YDUQXKHV")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "C0805"; UniqueID = "\HWJBPIJG" ("\HWJBPIJG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=12V Pin=C9-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=5V Pin=C15-2
+Added Pin To Net: NetName=GND_H Pin=C17-1
+Added Pin To Net: NetName=8V_H Pin=C17-2
+Added Pin To Net: NetName=GND_H Pin=C18-1
+Added Pin To Net: NetName=8V_H Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=12V Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND_L Pin=C21-1
+Added Pin To Net: NetName=8V_L Pin=C21-2
+Added Pin To Net: NetName=GND_L Pin=C22-1
+Added Pin To Net: NetName=8V_L Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=12V Pin=C23-2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC14_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=X2-1
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=R18-2
+Added Pin To Net: NetName=NetC20_2 Pin=U4-3
+Added Net: Name=NetC20_2
