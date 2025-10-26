@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=1EDS5663HXUMA1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=8.1
+Released=2019-08-26 10:05:59
+Downloaded=2025-10-26 14:42:08
+3D=Y

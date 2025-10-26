@@ -1,0 +1,105 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1808HC331KAT1A"
+   (description "Multilayer Ceramic Capacitors MLCC - SMD/SMT 3kV 330pF X7R 1808 10%")
+   (family "CAP")
+   (package "CAPC4620X220N")
+   (attribute "Datasheet Link" "https://componentsearchengine.com/Datasheets/2/1808HC331KAT1A.pdf")
+   (attribute "Geometry.Height" "2.2mm")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "1808HC331KAT1A")
+   (attribute "Mouser Part Number" "581-1808HC331KAT1A")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/1808HC331KAT1A?qs=OofVhbh5jGBg6ES05SErvg%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "1808HC331KAT1A")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "1808HC331KAT1A"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC4620X220N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.9 1.26)
+      (pt 2.9 1.26)
+      (pt 2.9 -1.26)
+      (pt -2.9 -1.26)
+      (pt -2.9 1.26))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.3 1)
+      (pt 2.3 1)
+      (pt 2.3 -1)
+      (pt -2.3 -1)
+      (pt -2.3 1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.9)
+      (pt 0 -0.9))))
+   (leg 1 (pt -1.97 0) (padstack 0))
+   (leg 2 (pt 1.97 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.56 2.22 0 0 90))
+   )
+   (model "1808HC331KAT1A.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

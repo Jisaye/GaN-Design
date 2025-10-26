@@ -1,0 +1,33 @@
+*PADS-LIBRARY-PCB-DECALS-V9*
+
+CAPC4620X220N M 0 0 0 2 3 0 2 1 0
+TIMESTAMP 2025.10.26.14.10.37
+0 0 0 0 1.27 0.127 1 0 34 "Regular <Romansim Stroke Font>"
+REF-DES
+0 0 0 0 1.27 0.127 1 32 35 "Regular <Romansim Stroke Font>"
+PART-TYPE
+CLOSED 5 0.05 20 -1
+-2.9 1.26
+2.9 1.26
+2.9 -1.26
+-2.9 -1.26
+-2.9 1.26
+CLOSED 5 0.1 27 -1
+-2.3 1
+2.3 1
+2.3 -1
+-2.3 -1
+-2.3 1
+OPEN 2 0.2 26 -1
+0 0.9
+0 -0.9
+T-1.97 0 -1.97 0 1
+T1.97 0 1.97 0 2
+PAD 0 3 N 0
+-2 1.56 RF 0 90 2.22 0
+-1 0 R
+0 0 R
+
+*END*
+*REMARK* AP
+1808HC331KAT1A.stp/0/0/0/0/0/0

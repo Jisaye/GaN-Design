@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1EDS5663HXUMA1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "1EDS5663HXUMA1" (!) = "", "SOIC127P1030X265-16N", "Small Outline Packages", "726-1EDS5663HXUMA1", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1EDS5663HXUMA1?qs=qSfuJ%252Bfl%2Fd4lzhyBsDCQtQ%3D%3D", "1EDS5663HXUMA1", "https://www.arrow.com/en/products/1eds5663hxuma1/infineon-technologies-ag", "INFINEON - 1EDS5663HXUMA1 - MOSFET DRIVER, -40 TO 85DEG C", "https://www.infineon.com/cms/en/product/power/gate-driver-ics/?", "2.65 mm"
+END_PART
+
+END.

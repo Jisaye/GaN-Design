@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4002.
+D DIODE, STANDARD RECOVERY, 1A, 100V, DO-2
+K
+F http://www.farnell.com/datasheets/2861322.pdf
+$ENDCMP
+#
+#End Doc Library

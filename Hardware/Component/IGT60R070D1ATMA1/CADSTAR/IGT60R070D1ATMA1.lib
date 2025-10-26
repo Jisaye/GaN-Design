@@ -1,0 +1,18 @@
+.IGT60R070D1ATMA1 :1 ;Gallium nitride CoolGaN 600V e-mode power transistor IGT60R070D1 for ultimate efficiency and reliability
+IGT60R070D1ATMA1
+*STM Q
+*NGS
+*PLB 1="SOURCE_1" 2="SOURCE_2" 3="SOURCE_3" 4="SOURCE_4" 5="SOURCE_5" 6="SOURCE_6" 7="KELVIN SOURCE " 8="GATE" 9="DRAIN" 10="SOURCE_7" 11="SOURCE_8" 12="SOURCE_9"
+*MXP 12
+*DFN IGT60R070D1ATMA1
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IGT60R070D1ATMA1)
+~!Mouser Part Number (726-IGT60R070D1ATMA1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IGT60R070D1ATMA1?qs=qSfuJ%252Bfl%2Fd6UBZbKTxAvTA%3D%3D)
+~!Arrow Part Number (IGT60R070D1ATMA1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/igt60r070d1atma1/infineon-technologies-ag?region=nac)
+~!Link Datasheet (https://www.infineon.com/part/IGT60R070D1)
+~!Height (2.3mm)
+~!3D_Model (IGT60R070D1ATMA1)
+IGT60R070D1ATMA1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

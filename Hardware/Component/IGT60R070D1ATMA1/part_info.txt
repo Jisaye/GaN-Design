@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IGT60R070D1ATMA1
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=12
+Version=1.2
+Released=2019-05-14 14:40:26
+Downloaded=2025-10-26 14:47:33
+3D=Y

@@ -1,0 +1,18 @@
+.1EDS5663HXUMA1 :1 ;INFINEON - 1EDS5663HXUMA1 - MOSFET DRIVER, -40 TO 85DEG C
+SOIC127P1030X265-16N
+*STM IC
+*NGS
+*PLB 1="PWM" 2="N.C._1" 3="VDDI" 4="GNDI" 5="DISABLE" 6="TNEG" 7="N.C._2" 8="SLDO" 9="GNDG" 10="OUTG" 11="VDDG" 12="N.C._3" 13="N.C._4" 14="GNDS" 15="OUTS" 16="VDDS"
+*MXP 16
+*DFN 1EDS5663HXUMA1
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (1EDS5663HXUMA1)
+~!Mouser Part Number (726-1EDS5663HXUMA1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/1EDS5663HXUMA1?qs=qSfuJ%252Bfl%2Fd4lzhyBsDCQtQ%3D%3D)
+~!Arrow Part Number (1EDS5663HXUMA1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1eds5663hxuma1/infineon-technologies-ag)
+~!Link Datasheet (https://www.infineon.com/cms/en/product/power/gate-driver-ics/?)
+~!Height (2.65mm)
+~!3D_Model (1EDS5663HXUMA1)
+"1EDS5663HXUMA1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

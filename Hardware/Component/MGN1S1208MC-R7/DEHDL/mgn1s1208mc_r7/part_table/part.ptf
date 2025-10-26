@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MGN1S1208MC_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "MGN1S1208MC-R7" (!) = "", "MGN1S1208MCR7", "Other", "580-MGN1S1208MC-R7", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGN1S1208MC-R7?qs=Jm2GQyTW%2Fbj7wXls7Lj2mQ%3D%3D", "", "", "DC-DC 1W SM 12-8V GAN", "https://www.murata.com/products/productdata/8819021971486/KDC-MGN1.pdf?1671420703000", "4.7 mm"
+END_PART
+
+END.

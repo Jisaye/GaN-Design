@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MGN1S1208MCR7"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MGN1S1208MCR7")
+        (spec "default")
+    )
+)

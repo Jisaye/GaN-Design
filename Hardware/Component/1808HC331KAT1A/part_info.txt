@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=1808HC331KAT1A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2025-02-10 12:14:43
+Downloaded=2025-10-26 14:50:37
+3D=Y

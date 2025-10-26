@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=1N4002.
+PartCategory=Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=2.1
+Released=2024-09-14 09:23:08
+Downloaded=2025-10-26 14:37:03
+3D=Y

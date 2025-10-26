@@ -1,0 +1,18 @@
+.1N4002. :1 ;DIODE, STANDARD RECOVERY, 1A, 100V, DO-2
+DIOAD1550W90L510D260
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4002.
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (1N4002.)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.farnell.com/datasheets/2861322.pdf)
+~!Height (-)
+~!3D_Model (1N4002.)
+"1N4002."
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MGN1S1208MC-R7
+D DC-DC 1W SM 12-8V GAN
+K
+F https://www.murata.com/products/productdata/8819021971486/KDC-MGN1.pdf?1671420703000
+$ENDCMP
+#
+#End Doc Library

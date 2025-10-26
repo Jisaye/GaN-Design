@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IGT60R070D1ATMA1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "IGT60R070D1ATMA1" (!) = "", "IGT60R070D1ATMA1", "Other", "726-IGT60R070D1ATMA1", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IGT60R070D1ATMA1?qs=qSfuJ%252Bfl%2Fd6UBZbKTxAvTA%3D%3D", "IGT60R070D1ATMA1", "https://www.arrow.com/en/products/igt60r070d1atma1/infineon-technologies-ag?region=nac", "Gallium nitride CoolGaN 600V e-mode power transistor IGT60R070D1 for ultimate efficiency and reliability", "https://www.infineon.com/part/IGT60R070D1", "2.3 mm"
+END_PART
+
+END.

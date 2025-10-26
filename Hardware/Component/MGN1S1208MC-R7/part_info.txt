@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=MGN1S1208MC-R7
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=4.2
+Released=2023-07-24 07:45:11
+Downloaded=2025-10-26 14:44:37
+3D=Y

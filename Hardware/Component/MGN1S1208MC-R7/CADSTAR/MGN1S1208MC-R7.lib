@@ -1,0 +1,18 @@
+.MGN1S1208MC-R7 :1 ;DC-DC 1W SM 12-8V GAN
+MGN1S1208MCR7
+*STM IC
+*NGS
+*PLB 1="-VIN_1" 2="-VIN_2" 9="0V_1" 10="0V_2" 11="+VOUT_1" 12="+VOUT_2" 19="+VIN_1" 20="+VIN_2"
+*MXP 8
+*DFN MGN1S1208MC-R7
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (MGN1S1208MC-R7)
+~!Mouser Part Number (580-MGN1S1208MC-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/MGN1S1208MC-R7?qs=Jm2GQyTW%2Fbj7wXls7Lj2mQ%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.murata.com/products/productdata/8819021971486/KDC-MGN1.pdf?1671420703000)
+~!Height (4.7mm)
+~!3D_Model (MGN1S1208MC-R7)
+MGN1S1208MC-R7
+1.1!U 2.1!U 9.1!U 10.1!U 11.1!U 12.1!U 19.1!U 20.1!U 

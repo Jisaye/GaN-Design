@@ -1,0 +1,18 @@
+.1808HC331KAT1A :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT 3kV 330pF X7R 1808 10%
+CAPC4620X220N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 1808HC331KAT1A
+~!Manufacturer_Name (Kyocera AVX)
+~!Manufacturer_Part_Number (1808HC331KAT1A)
+~!Mouser Part Number (581-1808HC331KAT1A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/1808HC331KAT1A?qs=OofVhbh5jGBg6ES05SErvg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/1808HC331KAT1A.pdf)
+~!Height (2.2mm)
+~!3D_Model (1808HC331KAT1A)
+"1808HC331KAT1A"
+1.1!U 2.1!U 

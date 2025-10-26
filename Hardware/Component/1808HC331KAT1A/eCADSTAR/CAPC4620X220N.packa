@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1808HC331KAT1A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-19-11:22:20)
+    (mountForm default
+        (footprintRef "CAPC4620X220N")
+        (spec "System")
+    )
+)

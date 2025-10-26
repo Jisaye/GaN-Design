@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1808HC331KAT1A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "1808HC331KAT1A" (!) = "", "CAPC4620X220N", "Capacitor Chip Non-polarised", "581-1808HC331KAT1A", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/1808HC331KAT1A?qs=OofVhbh5jGBg6ES05SErvg%3D%3D", "", "", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 3kV 330pF X7R 1808 10%", "https://componentsearchengine.com/Datasheets/2/1808HC331KAT1A.pdf", "2.2 mm"
+END_PART
+
+END.

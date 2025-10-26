@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N4002.'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Multicomp Pro", "1N4002." (!) = "", "DIOAD1550W90L510D260", "Diodes, Axial Diameter Horizontal Mounting", "", "", "", "", "DIODE, STANDARD RECOVERY, 1A, 100V, DO-2", "http://www.farnell.com/datasheets/2861322.pdf"
+END_PART
+
+END.

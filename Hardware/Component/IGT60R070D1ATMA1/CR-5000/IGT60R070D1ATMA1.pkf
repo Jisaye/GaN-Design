@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IGT60R070D1ATMA1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IGT60R070D1ATMA1")
+        (spec "default")
+    )
+)

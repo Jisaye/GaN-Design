@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MGN1S1208MC-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-07-24-07:45:12)
+    (mountForm default
+        (footprintRef "MGN1S1208MCR7")
+        (spec "System")
+    )
+)
