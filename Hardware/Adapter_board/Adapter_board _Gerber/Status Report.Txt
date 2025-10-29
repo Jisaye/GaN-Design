@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Adapter_board.PrjPcb]
+   Generated File[Adapter_board.TXT]
+   Generated File[Adapter_board.LDP]
+   Generated File[Adapter_board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:25:51 On 2025-10-29
