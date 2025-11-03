@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GaN_Single_Bridge.PrjPcb]
+   Generated File[GaN_Single_Bridge.TXT]
+   Generated File[GaN_Single_Bridge.LDP]
+   Generated File[GaN_Single_Bridge.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 20:10:32 On 2025-11-03

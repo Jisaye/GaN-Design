@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=12V Pin=B1-1
+Removed Pin From Net: NetName=12V Pin=B1-2
+Removed Pin From Net: NetName=GND Pin=B1-9
+Removed Pin From Net: NetName=GND Pin=B1-10
+Removed Pin From Net: NetName=GND_H Pin=B1-11
+Removed Pin From Net: NetName=GND_H Pin=B1-12
+Removed Pin From Net: NetName=8V_H Pin=B1-19
+Removed Pin From Net: NetName=8V_H Pin=B1-20
+Removed Pin From Net: NetName=12V Pin=B2-1
+Removed Pin From Net: NetName=12V Pin=B2-2
+Removed Pin From Net: NetName=GND Pin=B2-9
+Removed Pin From Net: NetName=GND Pin=B2-10
+Removed Pin From Net: NetName=GND_L Pin=B2-11
+Removed Pin From Net: NetName=GND_L Pin=B2-12
+Removed Pin From Net: NetName=8V_L Pin=B2-19
+Removed Pin From Net: NetName=8V_L Pin=B2-20
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetD9_1 Pin=ZEN-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetD7_1 Pin=ZEN-2
+Change Component Designator: OldDesignator=12V NewDesignator=T3
+Change Component Designator: OldDesignator=G_H NewDesignator=T5
+Change Component Designator: OldDesignator=G_L NewDesignator=T7
+Change Component Designator: OldDesignator=GND NewDesignator=T4
+Change Component Designator: OldDesignator=OUT NewDesignator=H2
+Change Component Designator: OldDesignator=Power NewDesignator=J1
+Change Component Designator: OldDesignator=PWM_H NewDesignator=T1
+Change Component Designator: OldDesignator=PWM_L NewDesignator=T2
+Change Component Designator: OldDesignator=S_H NewDesignator=T6
+Change Component Designator: OldDesignator=S_L NewDesignator=T8
+Change Component Designator: OldDesignator=VCC+ NewDesignator=H1
+Change Component Designator: OldDesignator=VCC- NewDesignator=H3
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_0805"; UniqueID = "\UIKJGTAZ" ("\UIKJGTAZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAP_0805"; UniqueID = "\ZKECTMVK" ("\ZKECTMVK")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "X7R, ¡À10%, 16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES_0805"; UniqueID = "\JGCIEXYG" ("\JGCIEXYG")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RES_0805"; UniqueID = "\PHYSZYGJ" ("\PHYSZYGJ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "¡À1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Specification"; Value = "¡À1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "18k"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NAME"; VariantName = "[No Variations]"
+Added Component: Designator=D9(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NAME"; VariantName = "[No Variations]"
+Added Component: Designator=D10(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NAME"; VariantName = "[No Variations]"
+Added Component: Designator=D11(DO-214AC)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NAME"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=GND_H Pin=B1-9
+Added Pin To Net: NetName=GND_H Pin=B1-10
+Added Pin To Net: NetName=8V_H Pin=B1-11
+Added Pin To Net: NetName=8V_H Pin=B1-12
+Added Pin To Net: NetName=12V Pin=B1-19
+Added Pin To Net: NetName=12V Pin=B1-20
+Added Pin To Net: NetName=GND Pin=B2-1
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=GND_L Pin=B2-9
+Added Pin To Net: NetName=GND_L Pin=B2-10
+Added Pin To Net: NetName=8V_L Pin=B2-11
+Added Pin To Net: NetName=8V_L Pin=B2-12
+Added Pin To Net: NetName=12V Pin=B2-19
+Added Pin To Net: NetName=12V Pin=B2-20
+Added Pin To Net: NetName=NetD2_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D9-1
+Added Pin To Net: NetName=NetD7_1 Pin=D10-1
+Added Pin To Net: NetName=NetD9_1 Pin=D11-1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD11_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D9-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-2
+Added Net: Name=NetD10_2
+Added Class: Name=GaN_Single_Bridge

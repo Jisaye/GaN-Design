@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SHJWUSME
 
 [Document4]
-DocumentPath=Adapter_board.PcbLib
+DocumentPath=lib\Adapter_board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HXAYHJXF
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Adapter_board\Adapter_board.DRR

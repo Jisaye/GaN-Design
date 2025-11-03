@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GaN_Single_Bridge.PcbDoc   2025-11-03  20:10:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GaN_Single_Bridge.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             28        PTH        5.55inch (141.09mm)
+T2      10mil (0.254mm)                                           Round             69        PTH        6.94inch (176.31mm)
+T3      12mil (0.305mm)                                           Round             15        PTH        5.96inch (151.43mm)
+T4      16mil (0.4mm)                                             Round             30        PTH        5.49inch (139.52mm)
+T5      39mil (1mm)                                               Round             13        PTH        9.34inch (237.12mm)
+T6      44mil (1.13mm)                                            Round             4         PTH        2.92inch (74.24mm)
+T7      47mil (1.2mm)                                             Round             2         PTH        0.41inch (10.46mm)
+T8      59mil (1.5mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T9      118mil (3mm)                                              Round             4         PTH        14.02inch (356.20mm)
+T10     276mil (7mm)                                              Round             2         PTH        0.93inch (23.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              169
+
+Total Processing Time (hh:mm:ss) : 00:00:01

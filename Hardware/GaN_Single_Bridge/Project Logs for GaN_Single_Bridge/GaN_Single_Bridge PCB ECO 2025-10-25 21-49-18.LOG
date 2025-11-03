@@ -1,9 +1,0 @@
-Added Component: Designator=D9(SOD-323)
-Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Specification"; Value = ""; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Type"; Value = "SOD323"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "NAME"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetD9_1 Pin=D9-1
-Added Pin To Net: NetName=NetD7_1 Pin=D9-2
-Added Member To Class: ClassName=GaN_Single_Bridge Member=Component D9 NAME
