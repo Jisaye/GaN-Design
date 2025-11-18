@@ -112,11 +112,25 @@ Vsw_peak为振铃峰值，fsw为开关频率
 
 # PCB设计
 
-设计样例：
+单个半桥驱动模块：
 
-![image-20251025164017639](attachments/image-20251025164017639.png)
+![image-20251115161653602](attachments/image-20251115161653602.png)
 
-注意铺铜和过孔扇出问题
+![92a81938bc1906c612e0f3bcebc02985](attachments/92a81938bc1906c612e0f3bcebc02985.png)
+
+扩展板：
+
+![image-20251115161814362](attachments/image-20251115161814362.png)
+
+![Adapter_board](attachments/Adapter_board.png)
+
+注意铺铜和过孔扇出问题（散热）：
+
+1.在电路板另一面放置一个铜平面也能让热阻降低10%~20%，这个“背面的”铜平面甚至不必有电气连接，或只是普通的地平面。
+
+2.导热过孔（孔洞直径为0.3~0.33mm），给定面积内，过孔间距（即圆心之间的距离）一般为1~1.2mm。
+
+3.过孔网格可非常接近功率元器件，可围绕在其周边，甚至可在其裸焊盘散热封装之下。
 
 # V1.0设计问题
 
@@ -125,3 +139,38 @@ Vsw_peak为振铃峰值，fsw为开关频率
 2.Mos管下管没有在器件底部加过孔散热
 
 3.齐纳二极管的设计改用两个肖特基二极管反向串联
+
+# V2.0测试问题
+
+1.半桥测试Vgs时：
+
+![deaa3353df4ef1a6beea733b5e29f5c4](attachments/deaa3353df4ef1a6beea733b5e29f5c4.jpg)
+
+出现类似振铃现象，有尖峰电压
+
+把0Ω电阻反并联的二极管卸下来再进行测试，发现依然有尖峰电压
+
+将栅源之间的钳位二极管卸下来进行测试，发现依然有尖峰电压
+
+# 软件程序设计
+
+启用EPWM1、2、5共3组PWM
+
+死区时间设置为双边100ns：
+
+EPwm1Regs.DBCTL.all=0xb;      // EPWMxB is inverted
+
+EPwm1Regs.DBRED=15;         //15×6.66ns=99.9ns 
+
+EPwm1Regs.DBFED=15;         
+
+![b4272520a81ae593bc5b931ae7a225b3](attachments/b4272520a81ae593bc5b931ae7a225b3.jpg)
+
+所以在该处若要设置输出交流频率为50Hz，则调制波频率也为50Hz，设置对应开关频率为100kHz，则计算得到的采样点数应为2000个
+
+# LC滤波器设计
+
+![GaN逆变器设计 1](attachments/GaN逆变器设计 1.jpg)
+
+![b05dca6a37b60201d5a14648d1980b6b](attachments/b05dca6a37b60201d5a14648d1980b6b.jpg)
+
